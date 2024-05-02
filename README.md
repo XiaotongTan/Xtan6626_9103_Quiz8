@@ -10,8 +10,12 @@ Part 1
 
 *A Source of Inspiration*
 
-I am attracted by the dynamic interaction of light and shadow, which creates a visual flow and change. When the ribbon of light takes on a wavy shape, this change of light and shadow reminds me of the softness and fluidity of fabric, and the effect when it flutters or falls to the ground is a reminder of satin.
+I am attracted by the dynamic interaction of light and shadow, which **creates a visual flow and change**. When the ribbon of light takes on a wavy shape, this change of light and shadow reminds me of the softness and fluidity of fabric, and the effect when it flutters or falls to the ground is a reminder of satin.
 
 *How the Plan is Incorporated into the Project?*
 
-I can write code to simulate the dynamic changes of the light strips, providing users with a more engaging and varied visual experience.
+The **smooth dynamic changes with form** are what I need.Before creating code, I need to **know what kind of dynamic changes I needed** (e.g. rhythm, amplitude).
+
+Part2
+Frietly
+![code of wavaing]

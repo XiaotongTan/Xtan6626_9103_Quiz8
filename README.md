@@ -2,8 +2,9 @@
 # xtan6626_9103_tut2_quiz8
 Here is a repository for quiz 8 of IDEA9103
 
-**Quiz 8**
-Part 1
+## Quiz 8
+
+### Part 1
 ![the first image about installation](readmeImages\installation_1.png)
 ![the second image about installation](readmeImages\installation_2.png)
 "Helix (2020)" (an AudioVisual Installation Directed by KnovCompile)
@@ -16,6 +17,13 @@ I am attracted by the dynamic interaction of light and shadow, which **creates a
 
 The **smooth dynamic changes with form** are what I need.Before creating code, I need to **know what kind of dynamic changes I needed** (e.g. rhythm, amplitude).
 
-Part2
-Frietly
-![code of wavaing]
+## Part2 
+
+I will use Perlin Noise to simulate fluid dynamics which from part 1.
+
+*Steps*
+
+1. Global Variables
+2. "setup()": Create the initial canvas and particle array and set the initial properties of the particles.
+3. In the draw() function, first create a flow field using nested loops, then update each particle's movement direction and position according to the vectors in this flow field using "follow(flowField)".
+

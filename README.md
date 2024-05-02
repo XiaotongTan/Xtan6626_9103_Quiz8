@@ -25,7 +25,7 @@ I will use **Perlin Noise** to simulate fluid dynamics which from part 1.
 
 ![example of Perlin Noise](readmeImages\example_of_perlinNoise.png)
 
-[https://editor.p5js.org/arthurrc/sketches/Bya9WiAnm0]
+[https://editor.p5js.org/arthurrc/sketches/Bya9WiAnm]
 
 ### Steps
 

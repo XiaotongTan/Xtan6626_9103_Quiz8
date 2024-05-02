@@ -35,4 +35,7 @@ I will use **Perlin Noise** to simulate fluid dynamics which from part 1.
 
 ### Reflection
 
+Part 1 explores the dynamic interplay in a 3D AudioVisual Installation. However, the code which I found shifts to a 2D plane. Still need the deeper develop how Perlin Noise's running track be more three-dimensional
+
+
 
